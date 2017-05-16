@@ -7,3 +7,7 @@
 .underline{
     text-decoration: underline;
 }
+ul.prim{
+    list-style: none;
+    padding:0;
+}
